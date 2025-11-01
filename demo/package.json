@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "scheme": {
+    "symmetric": "AES-256-GCM",
+    "asymmetric_wrap": "RSA-3072-OAEP-SHA256"
+  },
+  "wrapped_key_b64": "oHS8eNCEmCVBtvtr1YPb7ecr5nH0TBb+XOrP1qF3Fy0XUx/P09S1B0kUzAWtv5ZLlGW6sJx1zXkUK4nwzq3Xf1e/n8WlVWS9/xQpmKz85DJYm0Lmt3HQWIJ638LtgYfXHSB3KfDKjzLq0p/z/GV6bAQjdTF/dzs0FKsb8QWwprSLYTwSkwd+w32Ksf5etaWH31qAyOQyUhG+afdVIB3V7VgKkHX05Di6vq079C40NPGcW47xxjW7icc8m3CstGs/N+O4Z4s2Baqdcw4nvvEiShwAHfVVNbUOgKsJzDGsNr0AB9IKvmOekt8LyCmtSIkMBIrFj5z0QxLSL9NDWEEeONcO3HXkax7oeAfDGoTMBxsyG49fgwUh0OmNWa2w45TFY88ll8iYNk7Eo1IyEusO5rhiaK/kqNqwg+p7hF4zls8Sc1jhmuqOLGOWrj6bCFrBHbeXyhlb5b7Dda8AuuNFeQM1tPzEbFXEQ4wS00kFJb43EOsyeXvzI3TUVLWBLkU6",
+  "nonce_b64": "Y1b31baEXLQXtdAn",
+  "ciphertext_b64": "cE4dyHNjmiq3uONOF3kNHfFPU3C5G3SyrI8="
+}

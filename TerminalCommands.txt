@@ -1,0 +1,5 @@
+| Task                     | Command                                                                    |
+| ------------------------ | -------------------------------------------------------------------------- |
+| Generate keys            | `python kyle.py genkeys --private-out private.pem --public-out public.pem` |
+| Encrypt a message        | `python kyle.py enc -k public.pem -m "hello team" -o demo/package.json`    |
+| Decrypt to see plaintext | `python kyle.py dec -k private.pem -p demo/package.json`                   |
